@@ -10,5 +10,5 @@ instagram report tool
 instagram report bot
 instagram ban tool
 instagram reporter
-
+instagram ban app
 
