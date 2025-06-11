@@ -13,3 +13,4 @@ instagram reporter
 instagram ban app
 instagram mass report
 instagram ban tool
+instagram mass report tool
