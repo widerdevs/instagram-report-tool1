@@ -12,7 +12,7 @@ report bot > https://t.me/profcodes
 # instagram reporter
 # instagram ban app
 # instagram mass report
-instagram ban tool
+# instagram ban tool
 instagram mass report tool
 instagram ban tool
 instagram mass report
