@@ -18,3 +18,4 @@ report bot > https://t.me/profcodes
 # instagram mass report
 # instagram reporter
 # insta banner
+# instagram ban tool
